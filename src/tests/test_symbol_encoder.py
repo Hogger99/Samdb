@@ -2,9 +2,8 @@ import src.hdc.symbol_encoder as enc
 import pytest
 
 """
-test spec for the Symbol Encoder
+test spec for the Symbol Encoder.
 """
-
 
 @pytest.fixture
 def get_encoder():
